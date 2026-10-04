@@ -23,15 +23,6 @@
 
 ---
 
-## 🖥️ Preview
-
-<p align="center">
-  <img src="./public/preview.png" alt="Apple Clone — Interface Principal" width="100%">
-</p>
-
-> Uma experiência visual inspirada na estética minimalista da Apple, com especial atenção à tipografia, espaçamento, composição e fluidez das interações.
-
----
 
 ## 📖 Sobre o Projeto
 

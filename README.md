@@ -13,7 +13,6 @@ O projeto foi construído com as seguintes ferramentas e bibliotecas:
 * **Vite** — Bundler de desenvolvimento rápido de última geração
 * **React** — Biblioteca JavaScript para construção de interfaces utilizador
 * **CSS3 / Tailwind** — Estilização modular, responsiva e alinhada ao design clássico da Apple
-* **Oxlint** — Linter de alta performance para garantir a qualidade do código
 
 ---
 
